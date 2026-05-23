@@ -73,4 +73,5 @@ jobs:
         with:
           app-name: 'task2'
           slot-name: 'Production'
+          package: .
           
